@@ -1,0 +1,13 @@
+HTML Notas
+<h1> se utiliza para dar hits "Titulo"
+<p> se utiliza para parrafos
+<strong> una etiqueta que tiene como funcion en cambiar la letra en negrito o "marcar con especial énfasis las partes más importantes de un texto"
+<em> es una etiqueta que se utiliza para dar enfasis
+<!DOCTYPE html> se usa al inicio de cada archivo, La declaración no es una etiqueta HTML. Es una "información" para el navegador sobre qué tipo de documento esperar.
+<html> se usara despues de usar el tag de !DOCTYPE y se pondra despues de la declaracion de cada texto, al final cuando se haya terminado
+<meta charset= "UFT-8> Este tag utiliza todos los idiomas, caracteres especiales y acentuaciones para HTML"Para que todos los usuarios vean la página web con el diccionario correcto, respetando acentos y caracteres especiales propios de algunos idiomas como español y portugués."
+<html lang(lenguaje)="es-419"(419 si es un español de latinoamerica o un es-ES si es un español españa) este tag se usara para definir el tipo de idioma de la pagina en caso de que se habra en ingles, tenga la opcion de traducirla de forma automatica
+<title> etiqueta que sirve para ponerle un titulo a la pagina web
+<head>en esta etiqueta se colocan aquellas etiquetas que son informativas entre ellas <meta charset="UFT-8" y <tittle>
+<body> donde se define todas las etiquetas del todo contenido de la pagina 
+
